@@ -20,4 +20,5 @@ def skip_step_right
   puts "Right, Left, Right, and Right"
 end
 
-def 
+def upper_body
+  puts ""
