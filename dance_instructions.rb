@@ -14,3 +14,5 @@ def skip_step_left
   puts "Left, Right, Left and Left"
 end
 
+def skip_step_right
+  puts 
