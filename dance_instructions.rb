@@ -21,4 +21,4 @@ def skip_step_right
 end
 
 def upper_body
-  puts ""
+  puts "Holding your arms out in front of you, straight and at chest level"
