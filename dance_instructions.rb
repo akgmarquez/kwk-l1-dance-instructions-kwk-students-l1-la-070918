@@ -1,3 +1,3 @@
 def dance_instructions.rb
-  puts ""
+  puts "plant legs "
 # Code your methods below
