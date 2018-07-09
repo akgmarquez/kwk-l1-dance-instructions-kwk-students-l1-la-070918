@@ -1,3 +1,3 @@
 def dance_instructions.rb
-  puts "plant legs "
+  puts "Plant legs far apart, bend knees slightly and keep posture loose "
 # Code your methods below
